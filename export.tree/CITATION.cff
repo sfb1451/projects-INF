@@ -1,0 +1,49 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Data Management for Computational Modelling
+message: This is our project description
+type: dataset
+authors:
+  - given-names: Michael
+    family-names: Hanke
+    orcid: 'https://orcid.org/0000-0001-6398-6370'
+  - given-names: Silvia
+    family-names: Daun
+  - given-names: Simon
+    family-names: Eickhoff
+  - given-names: Paola
+    family-names: Mengotti
+  - given-names: Martin
+    family-names: Nawrot
+  - given-names: Marc
+    family-names: Tittgemeyer
+  - given-names: Simone
+    family-names: Vossel
+  - given-names: Sacha
+    family-names: Albada
+    name-particle: van
+  - given-names: Lionel
+    family-names: Rigoux
+  - given-names: Vahid
+    family-names: Rostami
+  - given-names: Azamat
+    family-names: Yeldesbay
+  - given-names: Michał
+    family-names: Szczepanik
+    orcid: 'https://orcid.org/0000-0002-4028-2087'
+abstract: >-
+  This project will provide expertise for access,
+  description, and modelling of the data collected in
+  the individual projects as well as Z02 and Z03. INF
+  will continuously assess general workflows,
+  resource requirements, and data analysis processes
+  to capture between-project differences that may
+  impact data comparability and re-usability across
+  projects. INF will provide tools, services and
+  training to help projects align their research
+  output to (i) facilitate data analysis for
+  extracting common activity patterns and mechanisms
+  underlying motor behaviours across species, and
+  (ii) promote data-driven computational modelling.

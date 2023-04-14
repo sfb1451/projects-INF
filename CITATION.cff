@@ -10,7 +10,7 @@ abstract: 'This project will provide expertise for access, description, and mode
   Please find more information about how to collect or process data within the SFB1451
   here:'
 authors:
-- {family-names: daun, given-names: Silvia}
+- {family-names: Daun, given-names: Silvia}
 - {family-names: Eickhoff, given-names: Simon}
 - {family-names: Hanke, given-names: Michael}
 - {family-names: Mengotti, given-names: Paola}
@@ -24,4 +24,4 @@ authors:
 - {family-names: Yeldesbay, given-names: Azamat}
 cff-version: 1.2.0
 message: Generated with data scraped from crc1451.uni-koeln.de
-title: Data Management for Computational Modelling
+title: 'INF: Data Management for Computational Modelling'

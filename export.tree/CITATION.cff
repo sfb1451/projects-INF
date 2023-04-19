@@ -1,0 +1,27 @@
+abstract: 'This project will provide expertise for access, description, and modelling
+  of the data collected in the individual projects as well as Z02 and Z03. INF will
+  continuously assess general workflows, resource requirements, and data analysis
+  processes to capture between-project differences that may impact data comparability
+  and re-usability across projects. INF will provide tools, services and training
+  to help projects align their research output to (i) facilitate data analysis for
+  extracting common activity patterns and mechanisms underlying motor behaviours across
+  species, and (ii) promote data-driven computational modelling.
+
+  Please find more information about how to collect or process data within the SFB1451
+  here:'
+authors:
+- {family-names: Daun, given-names: Silvia}
+- {family-names: Eickhoff, given-names: Simon}
+- {family-names: Hanke, given-names: Michael}
+- {family-names: Mengotti, given-names: Paola}
+- {family-names: Nawrot, given-names: Martin}
+- {family-names: Tittgemeyer, given-names: Marc}
+- {family-names: Vossel, given-names: Simone}
+- {family-names: Albada, given-names: Sacha, name-particle: van}
+- {family-names: Rigoux, given-names: Lionel}
+- {family-names: Rostami, given-names: Vahid}
+- {family-names: Szczepanik, given-names: Michał}
+- {family-names: Yeldesbay, given-names: Azamat}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'INF: Data Management for Computational Modelling'
